@@ -2,7 +2,7 @@ Taxonomy 1-Dataset 1,Taxonomy 1 Dataset 2
 Chagas' disease,Chagas' disease
 "Allergy, food",Food Allergy
 "Allergy, house dust mite",Dust Mites Allergy
-"Allergy, unspecified",Allergy
+"Allergy, unspecified",Phencyclidine Abuse
 Cancer Chemotherapy Induced Neuropathic Pain,"Chemotherapy-induced pain, neuropathic"
 Cancer Chemotherapy Induced Alopecia,"Alopecia, chemotherapy-induced"
 Cancer Chemotherapy Induced Acral Erythema,Chemotherapy-induced acral erythema
@@ -19,4 +19,4 @@ Cancer Chemotherapy Induced Skin Rash,"Dermatitis, chemotherapy-induced"
 "Abuse, alcohol",Alcohol Abuse
 "Abuse, cocaine",Cocaine Abuse
 "Abuse, nicotine",Nicotine Abuse
-"Abuse, phencyclidine",Phencyclidine Abuse
+"Abuse, phencyclidine",Allergy
